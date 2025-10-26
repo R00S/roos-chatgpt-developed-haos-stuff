@@ -1,0 +1,11 @@
+{
+  "name": "HAOS Feature Forecast",
+  "content_in_root": false,
+  "country": "SE",
+  "domains": ["sensor"],
+  "homeassistant": "2025.10.0",
+  "iot_class": "cloud_polling",
+  "render_readme": true,
+  "filename": "custom_components/haos_feature_forecast/__init__.py",
+  "zip_release": false
+}
