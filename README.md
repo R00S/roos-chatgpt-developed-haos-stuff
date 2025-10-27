@@ -4,7 +4,7 @@ This repository contains multiple custom Home Assistant integrations, all instal
 
 | Integration | Version | Description |
 |--------------|----------|-------------|
-| **Haos Feature Forecast** | 1.0.4 | haos_feature_forecast integration |
+| **Haos Feature Forecast** | 1.0.5 | haos_feature_forecast integration |
 
 ## Installation
 1. In HACS → Integrations → Custom Repositories, add:
