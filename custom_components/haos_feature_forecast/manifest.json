@@ -1,7 +1,7 @@
 {
   "domain": "haos_feature_forecast",
   "name": "Haos Feature Forecast",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "documentation": "https://github.com/R00S/roos-chatgpt-developed-haos-stuff",
   "requirements": [],
   "codeowners": [
