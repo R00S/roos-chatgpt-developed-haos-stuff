@@ -1,15 +1,13 @@
-# HAOS Feature Forecast
+# Roos ChatGPT-Developed Home Assistant Stuff
 
-This custom integration tracks and displays upcoming Home Assistant features based on community and development signals.  
-It is installable via [HACS](https://hacs.xyz/).
+This repository contains multiple custom Home Assistant integrations, all installable via [HACS](https://hacs.xyz/).
+
+| Integration | Version | Description |
+|--------------|----------|-------------|
+| **Haos Feature Forecast** | 1.0.4 | haos_feature_forecast integration |
 
 ## Installation
-
 1. In HACS → Integrations → Custom Repositories, add:
    https://github.com/R00S/roos-chatgpt-developed-haos-stuff
-2. Select category **Integration**.
-3. Install “HAOS Feature Forecast”.
-4. Restart Home Assistant.
-
-## License
-MIT
+2. Category: **Integration**
+3. Restart Home Assistant.
