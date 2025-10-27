@@ -2,9 +2,8 @@
   "domain": "haos_feature_forecast",
   "name": "HAOS Feature Forecast",
   "version": "1.0.0",
-  "documentation": "https://git.svenskamuskler.com/roos/roos-chatgpt-developed-haos-stuff",
+  "documentation": "https://github.com/R00S/roos-chatgpt-developed-haos-stuff",
   "requirements": [],
-  "codeowners": ["@roos"],
-  "iot_class": "cloud_polling",
-  "integration_type": "hub"
+  "codeowners": ["@R00S"],
+  "iot_class": "cloud_polling"
 }
