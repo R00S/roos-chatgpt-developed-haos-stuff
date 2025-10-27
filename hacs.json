@@ -1,7 +1,9 @@
 {
-  "name": "HAOS Feature Forecast",
+  "name": "Roos ChatGPT-Developed Home Assistant Stuff",
   "content_in_root": false,
-  "domains": ["sensor"],
+  "domains": ["sensor", "switch"],
   "iot_class": "cloud_polling",
-  "render_readme": true
+  "render_readme": true,
+  "homeassistant": "2025.10.0",
+  "country": "SE"
 }
